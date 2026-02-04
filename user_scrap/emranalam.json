@@ -1,0 +1,116 @@
+{
+    "basic_info": {
+        "fullname": "MD.Emran Alam",
+        "first_name": "MD.Emran ",
+        "last_name": "Alam",
+        "headline": "Competitive Programmer. MERN Stack Developer",
+        "public_identifier": "emranalam",
+        "profile_url": "https://linkedin.com/in/emranalam",
+        "profile_picture_url": null,
+        "location": {
+            "country": "United States",
+            "full": "Auburn Hills, Michigan, United States",
+            "city": "Auburn Hills Michigan",
+            "country_code": "US"
+        },
+        "is_creator": false,
+        "is_influencer": false,
+        "is_premium": false,
+        "open_to_work": false,
+        "show_follower_count": false,
+        "created_timestamp": 1582883113591,
+        "background_picture_url": "https://media.licdn.com/dms/image/v2/D5616AQEE9BqrJx3Q6Q/profile-displaybackgroundimage-shrink_",
+        "urn": "ACoAAC-niZgBxarFdIk2OgvH9ErHE6Kloh2A5Fc",
+        "follower_count": null,
+        "connection_count": null,
+        "email": null,
+        "websites": [
+            "https://sites.google.com/view/designeremran",
+            "https://www.youtube.com/channel/UCsaOFF0MVRfdaBjKmE8q4NA"
+        ],
+        "profile_ID": "c7452e58fa37646d09dae4920fc5b4b9",
+        "about": "I am a passionate and results-driven software developer with a strong foundation in designing, developing, and deploying innovative software solutions. With 2 years of experience in the industry, I have honed my skills in c/c++, java, PHP, javaScript, express, nodejs, ReactJs, Redux, MongoDB, MySql,tailwind, Bootstrap, jquery, Database Management,  enabling me to tackle complex challenges and deliver high-quality software products."
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "company": "Thermostech IT Solutions",
+            "duration": "Oct 2022 - Present \u00b7 3 yrs 5 mos",
+            "start_date": {
+                "year": 2022,
+                "month": 10
+            },
+            "is_current": true,
+            "company_linkedin_url": "https://www.linkedin.com/company/89775516/",
+            "company_id": "89775516"
+        },
+        {
+            "title": "As A instructor",
+            "company": "Metropolitan University Bangladesh",
+            "duration": "Sep 2022 - Nov 2022 \u00b7 3 mos",
+            "start_date": {
+                "year": 2022,
+                "month": 9
+            },
+            "is_current": false,
+            "company_linkedin_url": "https://www.linkedin.com/company/75635089/",
+            "company_id": "75635089",
+            "end_date": {
+                "year": 2022,
+                "month": 11
+            }
+        },
+        {
+            "title": "Web Developer",
+            "company": "Freelancer.com",
+            "duration": "Jan 2020 - Nov 2022 \u00b7 2 yrs 11 mos",
+            "start_date": {
+                "year": 2020,
+                "month": 1
+            },
+            "is_current": false,
+            "company_linkedin_url": "https://www.linkedin.com/company/3477553/",
+            "company_id": "3477553",
+            "end_date": {
+                "year": 2022,
+                "month": 11
+            }
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Fiverr",
+            "duration": "Jan 2019 - Nov 2022 \u00b7 3 yrs 11 mos",
+            "start_date": {
+                "year": 2019,
+                "month": 1
+            },
+            "is_current": false,
+            "company_linkedin_url": "https://www.linkedin.com/company/861427/",
+            "company_id": "861427",
+            "end_date": {
+                "year": 2022,
+                "month": 11
+            }
+        },
+        {
+            "title": "Volunteer",
+            "company": "Metropolitan University Bangladesh",
+            "duration": "Nov 2022 \u00b7 1 mo",
+            "is_current": false,
+            "company_linkedin_url": "https://www.linkedin.com/company/75635089/",
+            "company_id": "75635089"
+        },
+        {
+            "title": "It & Graphics Coordinator",
+            "company": "Hult Prize Foundation",
+            "duration": "Jan 2023 - Present \u00b7 3 yrs 2 mos",
+            "start_date": {
+                "year": 2023,
+                "month": 1
+            },
+            "is_current": true,
+            "company_linkedin_url": "https://www.linkedin.com/company/3667879/",
+            "company_id": "3667879"
+        }
+    ]
+}
