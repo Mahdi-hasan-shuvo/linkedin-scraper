@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "fullname": "Zerin Tasnim Ahmed is open to work",
+    "first_name": "Zerin Tasnim",
+    "last_name": "work",
+    "headline": "Python Developer at BioPayLab",
+    "public_identifier": "zerin-tasnim-ahmed-802238267",
+    "profile_url": "https://linkedin.com/in/zerin-tasnim-ahmed-802238267",
+    "about": null,
+    "location": {
+      "country": "Bangladesh",
+      "full": "Dhaka, Dhaka, Bangladesh",
+      "city": "Dhaka, Dhaka",
+      "country_code": "BD"
+    },
+    "is_creator": false,
+    "is_influencer": false,
+    "is_premium": false,
+    "open_to_work": false,
+    "show_follower_count": false,
+    "created_timestamp": 1676982386506,
+    "urn": "ACoAAEFaNYIBOFLUvrlPySdfXOqqoggR0Pxa0m4",
+    "follower_count": 719,
+    "connection_count": 719,
+    "email": null,
+    "websites": [],
+    "profile_ID": "c7452e58fa37646d09dae4920fc5b4b9"
+  },
+  "experience": [
+    {
+      "title": "Teaching Assistant",
+      "company": "Department of English at Bangladesh University of Professionals",
+      "employment_type": "Full-time",
+      "duration": "Nov 2025 - Present \u00b7 4 mos",
+      "start_date": {
+        "year": 2025,
+        "month": 11
+      },
+      "is_current": true
+    },
+    {
+      "title": "Senior Vice President",
+      "company": "BUP LDC - Bangladesh University of Professionals Literature & Drama Club",
+      "duration": "May 2024 - Nov 2025 \u00b7 1 yr 7 mos",
+      "start_date": {
+        "year": 2024,
+        "month": 5
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/72067640/",
+      "company_id": "72067640",
+      "end_date": {
+        "year": 2025,
+        "month": 11
+      }
+    },
+    {
+      "title": "Intern",
+      "company": "Youth School for Social Entrepreneurs (YSSE)",
+      "employment_type": "Internship",
+      "work_type": "Remote",
+      "duration": "Nov 2024 - Mar 2025 \u00b7 5 mos",
+      "start_date": {
+        "year": 2024,
+        "month": 11
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/13312887/",
+      "company_id": "13312887",
+      "end_date": {
+        "year": 2025,
+        "month": 3
+      }
+    }
+  ]
+}

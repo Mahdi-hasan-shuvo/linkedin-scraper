@@ -1,0 +1,38 @@
+{
+  "basic_info": {
+    "fullname": "alain aspect",
+    "first_name": "alain",
+    "last_name": "aspect",
+    "headline": "Professeur chez Institut d'Optique Graduate School",
+    "public_identifier": "alain-aspect-22159163",
+    "profile_url": "https://linkedin.com/in/alain-aspect-22159163",
+    "about": null,
+    "location": {
+      "country": "France",
+      "full": "Greater Paris Metropolitan Region",
+      "city": "Greater Paris Metropolitan Region",
+      "country_code": "FR"
+    },
+    "is_creator": false,
+    "is_influencer": false,
+    "is_premium": false,
+    "open_to_work": false,
+    "show_follower_count": false,
+    "created_timestamp": 1357974460000,
+    "urn": "ACoAAA1vDPkBA3K5B2qTuQC-0oF3gkQbfKXWkGo",
+    "follower_count": 1126,
+    "connection_count": 11,
+    "email": null,
+    "websites": [],
+    "profile_ID": "c7452e58fa37646d09dae4920fc5b4b9"
+  },
+  "experience": [
+    {
+      "title": "Professeur",
+      "company": "Institut d'Optique Graduate School",
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/354021/",
+      "company_id": "354021"
+    }
+  ]
+}

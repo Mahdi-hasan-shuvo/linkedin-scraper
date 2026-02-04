@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "fullname": "Jay Gambetta",
+    "first_name": "Jay",
+    "last_name": "Gambetta",
+    "headline": "Director of IBM Research and IBM Fellow",
+    "public_identifier": "jay-gambetta-a274753a",
+    "profile_url": "https://linkedin.com/in/jay-gambetta-a274753a",
+    "about": "Specialties: Quantum Computing",
+    "location": {
+      "country": "United States",
+      "full": "Yorktown Heights, New York, United States",
+      "city": "Yorktown Heights, New York",
+      "country_code": "US"
+    },
+    "is_creator": false,
+    "is_influencer": false,
+    "is_premium": true,
+    "open_to_work": false,
+    "show_follower_count": false,
+    "created_timestamp": 1314886583318,
+    "urn": "ACoAAAhBbn8BouGqzhgkHQ_entawT2H7F1b5pnU",
+    "follower_count": 19323,
+    "connection_count": 3663,
+    "email": null,
+    "websites": [],
+    "profile_ID": "c7452e58fa37646d09dae4920fc5b4b9"
+  },
+  "experience": [
+    {
+      "title": "Director of IBM Research and IBM Fellow",
+      "company": "Full-time",
+      "location": "New York City Metropolitan Area",
+      "duration": "Oct 2025 - Present \u00b7 5 mos",
+      "start_date": {
+        "year": 2025,
+        "month": 10
+      },
+      "is_current": true,
+      "company_linkedin_url": "https://www.linkedin.com/company/1009/",
+      "company_id": "1009"
+    },
+    {
+      "title": "IBM Fellow and VP Quantum Computing",
+      "company": "IBM",
+      "location": "New York City Metropolitan Area",
+      "duration": "Oct 2019 - Oct 2025 \u00b7 6 yrs 1 mo",
+      "start_date": {
+        "year": 2019,
+        "month": 10
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/1009/",
+      "company_id": "1009",
+      "end_date": {
+        "year": 2025,
+        "month": 10
+      }
+    },
+    {
+      "title": "IBM Fellow and Senior Manager Quantum Computing Research and Development,",
+      "company": "IBM",
+      "location": "Greater New York City Area",
+      "duration": "May 2018 - Oct 2019 \u00b7 1 yr 6 mos",
+      "start_date": {
+        "year": 2018,
+        "month": 5
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/1009/",
+      "company_id": "1009",
+      "end_date": {
+        "year": 2019,
+        "month": 10
+      }
+    },
+    {
+      "title": "Research Assistant Professor",
+      "company": "University of Waterloo",
+      "duration": "Jul 2010 - Jan 2011 \u00b7 7 mos",
+      "start_date": {
+        "year": 2010,
+        "month": 7
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/166688/",
+      "company_id": "166688",
+      "end_date": {
+        "year": 2011,
+        "month": 1
+      }
+    },
+    {
+      "title": "CIFAR Junior Fellow",
+      "company": "University of Waterloo",
+      "duration": "Jul 2009 - Jun 2010 \u00b7 1 yr",
+      "start_date": {
+        "year": 2009,
+        "month": 7
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/166688/",
+      "company_id": "166688",
+      "end_date": {
+        "year": 2010,
+        "month": 6
+      }
+    },
+    {
+      "title": "Postdoctoral Fellow",
+      "company": "University of Waterloo",
+      "duration": "Oct 2007 - Jun 2009 \u00b7 1 yr 9 mos",
+      "start_date": {
+        "year": 2007,
+        "month": 10
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/166688/",
+      "company_id": "166688",
+      "end_date": {
+        "year": 2009,
+        "month": 6
+      }
+    },
+    {
+      "title": "Postdoctoral Associate",
+      "company": "Yale University",
+      "duration": "Jul 2004 - Sep 2007 \u00b7 3 yrs 3 mos",
+      "start_date": {
+        "year": 2004,
+        "month": 7
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/15248569/",
+      "company_id": "15248569",
+      "end_date": {
+        "year": 2007,
+        "month": 9
+      }
+    }
+  ]
+}
