@@ -1,0 +1,44 @@
+{
+  "basic_info": {
+    "fullname": "Dhruv Shah",
+    "first_name": "Dhruv",
+    "last_name": "Shah",
+    "headline": "Backend Engineer",
+    "public_identifier": "shahd5",
+    "profile_url": "https://linkedin.com/in/shahd5",
+    "about": "Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Skilled in Java, Spring, SQL, Angular 4, MongoDB, Android Development, Bootstrap, and Cascading Style Sheets (CSS). Strong engineering professional with a Bachelor's degree focused in Computer Science from SUNY New Paltz.",
+    "location": {
+      "country": "United States",
+      "full": "Henrico, Virginia, United States",
+      "city": "Henrico, Virginia",
+      "country_code": "US"
+    },
+    "is_creator": false,
+    "is_influencer": false,
+    "is_premium": false,
+    "open_to_work": true,
+    "show_follower_count": false,
+    "created_timestamp": 1535596207709,
+    "urn": "ACoAAChN3M4BPqiXnklEoY_scDyYxY1zBljblRU",
+    "follower_count": 293,
+    "connection_count": 287,
+    "email": null,
+    "websites": [],
+    "profile_ID": "c7452e58fa37646d09dae4920fc5b4b9"
+  },
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Capital One",
+      "location": "Richmond, Virginia Area",
+      "duration": "Nov 2018 - Present \u00b7 7 yrs 4 mos",
+      "start_date": {
+        "year": 2018,
+        "month": 11
+      },
+      "is_current": true,
+      "company_linkedin_url": "https://www.linkedin.com/company/1419/",
+      "company_id": "1419"
+    }
+  ]
+}

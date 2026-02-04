@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "fullname": "Josh Van Slyke",
+    "first_name": "Josh",
+    "last_name": "Slyke",
+    "headline": null,
+    "public_identifier": "joshvanslyke",
+    "profile_url": "https://linkedin.com/in/joshvanslyke",
+    "about": "IT Professional with extensive experience managing people and technologies.  Always functioned with a priority of integrating new technologies with a goal of easing the end users workload.  Constantly pushing to learn new technologies and how they can be integrated into an environment.\\n\\nSpecialties: Microsoft Windows Server, Microsoft Windows Desktop, Microsoft Exchange, Microsoft SQL, Microsoft Office, Microsoft Licensing, Cisco Networking, Cisco CallManager, Cisco Unity, Cisco Contact Center, Cisco Firewalls and more...",
+    "location": {
+      "country": "United States",
+      "full": "Portland, Oregon, United States",
+      "city": "Portland, Oregon",
+      "country_code": "US"
+    },
+    "is_creator": false,
+    "is_influencer": false,
+    "is_premium": false,
+    "open_to_work": false,
+    "show_follower_count": false,
+    "created_timestamp": 1202810573000,
+    "urn": "ACoAAAFFmR8BpjO0smcQW6KBgCfNaF5CMLLkdgU",
+    "follower_count": 739,
+    "connection_count": 727,
+    "email": null,
+    "websites": [],
+    "profile_ID": "34ead06db82a2cc9a778fac97f69ad6a"
+  },
+  "experience": [
+    {
+      "title": "IT Infrastructure Manager",
+      "company": "BENCHMADE",
+      "location": "Oregon City, OR",
+      "duration": "Jun 2018 - Jun 2020 \u00b7 2 yrs 1 mo",
+      "start_date": {
+        "year": 2018,
+        "month": 6
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/1268806/",
+      "company_id": "1268806",
+      "end_date": {
+        "year": 2020,
+        "month": 6
+      }
+    },
+    {
+      "title": "Senior Technologist",
+      "company": "CampusWorks, Inc.",
+      "duration": "Jun 2017 - Jun 2020 \u00b7 3 yrs 1 mo",
+      "start_date": {
+        "year": 2017,
+        "month": 6
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/141960/",
+      "company_id": "141960",
+      "end_date": {
+        "year": 2020,
+        "month": 6
+      }
+    },
+    {
+      "title": "IT Infrastructure Manager",
+      "company": "Roskam Baking Company",
+      "duration": "May 2014 - Jun 2017 \u00b7 3 yrs 2 mos",
+      "start_date": {
+        "year": 2014,
+        "month": 5
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/4652261/",
+      "company_id": "4652261",
+      "end_date": {
+        "year": 2017,
+        "month": 6
+      }
+    },
+    {
+      "title": "Windows Systems Engineer",
+      "company": "GAIN Capital",
+      "location": "Greater Grand Rapids Area, Michigan",
+      "duration": "Mar 2014 - May 2014 \u00b7 3 mos",
+      "start_date": {
+        "year": 2014,
+        "month": 3
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/18041/",
+      "company_id": "18041",
+      "end_date": {
+        "year": 2014,
+        "month": 5
+      }
+    },
+    {
+      "title": "IT Manager",
+      "company": "US Signal",
+      "duration": "Dec 2000 - Feb 2014 \u00b7 13 yrs 3 mos",
+      "start_date": {
+        "year": 2000,
+        "month": 12
+      },
+      "is_current": false,
+      "company_linkedin_url": "https://www.linkedin.com/company/36854/",
+      "company_id": "36854",
+      "end_date": {
+        "year": 2014,
+        "month": 2
+      }
+    }
+  ]
+}
